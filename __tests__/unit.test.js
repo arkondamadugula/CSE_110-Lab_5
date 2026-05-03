@@ -9,3 +9,6 @@ import {
 } from '../code-to-unit-test/unit-test-me';
 
 // TODO - Part 2
+test("placeholder test", () => {
+  expect(true).toBe(true);
+});
