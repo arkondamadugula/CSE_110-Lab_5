@@ -1,8 +1,11 @@
 # Lab 5 - Starter
-Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
-
 
 My name: Anish Kondamadugula
+
+Expose Page: https://arkondamadugula.github.io/CSE_110-Lab_5/expose.html
+Explore Page: https://arkondamadugula.github.io/CSE_110-Lab_5/explore.html
+
+
 
 ## 1. 
 I wouldn't just use a unit test to test the "message" feature of a messaging application, because semnding a message is dependent on various parts working together, like the UI, input handling, server/database, and message display. A unit test could be helpful for testing a helper function corressponding to messages, but the full send-message feature must be tested with an integration or end-to-end test.
